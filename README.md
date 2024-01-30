@@ -7,14 +7,11 @@ Um sistema web desenvolvido em Node.js para gerenciar squads e colaboradores de 
 
 - Consultar, listar e persistir informações sobre squads e colaboradores.
 - Persistência de dados de forma lógica.
-- Utilização de MySQL como banco de dados.
 - Interface amigável para facilitar a interação.
 
 ## Tecnologias Utilizadas
 
 - Node.js
-- Express.js
-- MySQL
 - HTML/CSS
 
 ## Como Executar
