@@ -1,0 +1,26 @@
+{
+  "name": "akross",
+  "version": "1.0.0",
+  "description": "Projeto Akross Candidata Yasmin Do N Valentim, vaga estágio backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miinalves12/ProjetoAkross.git#main"
+  },
+  "author": "Yasmin Do Nascimento Valentim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miinalves12/ProjetoAkross/issues"
+  },
+  "homepage": "https://github.com/Miinalves12/ProjetoAkross/tree/main#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "mysql2": "^3.9.1"
+  },
+  "keywords": []
+}
